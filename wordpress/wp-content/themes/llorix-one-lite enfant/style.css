@@ -1,0 +1,92 @@
+/*
+Theme Name: Llorix One Lite enfant
+Theme URI: http://themeisle.com/themes/llorix-one/
+Template: Llorix One Lite enfant;
+Author: ThemeIsle
+Author URI: http://themeisle.com/
+Description: Llorix One Lite is a free and beautiful one page business WordPress theme, with a flat and clean bootstrap based design and an elegant parallax effect. It provides a simple,minimal and modern look that can be used for any kind of personal businesses or startup mobile app. The landing page has a fullscreen hero image and blue & orange appearance with buttons and icons promoting simplicity and elegance at their best. The theme provides a responsive blog section, is eCommerce ready (WooCommerce store compatible), WPML, bbPress, Photo Gallery Grid,Contact Form 7,Meta Slider,SiteOrigin Page Builder, JetPack compatible  and SEO friendly. You can use it for your business / startup shop, agency, corporate website, or photography portfolio.
+Version: 0.2.17
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: llorix-one-lite
+Tags:one-column, two-columns, right-sidebar, custom-header, custom-background, custom-colors, custom-menu, featured-images, full-width-template, rtl-language-support, sticky-post, threaded-comments, translation-ready, accessibility-ready, e-commerce, blog, portfolio
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Llorix One is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+
+1. GLOBAL STYLES (USED IN VARIOUS SECTION OF THE WEBSITE)
+	1.0 GENERAL STYLES
+	1.1 PRE LOADER
+	1.2 ANCHOR
+	1.3 MISC FIXES
+
+2. COMPONENTS (ELEMNTS USED IN MANY SECTION)
+	2.1 TYPOGRAPHY
+	2.2 ELEMENTS
+	2.3 ALIGNMENTS
+	2.4 BUTTONS
+	2.5 BORDER AND LINE
+	2.6 SECTION HEADER
+	2.7 FORM ELEMENTS
+
+3. SECTION STYLES
+	3.1 SECTION: HOME
+	    3.1.1 STICKY NAVIGATION
+	    3.1.2 ONLY LOGO
+	    3.1.3 INTRO
+	3.2 SECTION: CLIENTS LIST
+	3.3 SECTION: SERVICES
+	3.4 SECTION: APP BRIEF
+
+	3.5 SECTION: STATS
+    3.6 SECTION: FEATURES
+    3.7 SECTION: PRICING TABLE
+    3.8 SECTION: SCREENSHOTS
+    3.9 SECTION: TIMELINE
+    3.10 SECTION: TEAM
+    3.11 SECTION: TESTIMONIALS
+    3.12 SECTION: CALL TO ACTION
+    3.13 SECTION: CONTACT INFO
+    3.14 SECTION: GOOGLE MAP
+    3.15 TEMPLATE: CONTACT PAGE
+    3.16 WOOCOMMERCE STYLE
+    3.17 FOOTER
+    3.18 FRONTPAGE CONTENT
+
+4. DEFAULT COLORS
+
+5. BLOG
+	5.1. SINGLE PAGE
+	5.2 GALLERY
+	5.3 SIDEBAR
+
+6. RESPONSIVE
+
+7. ICONS
+
+8. ACCESSIBILITY
+
+9. PLUGINS COMPATIBILITY
+	9.1 POSTMATIC
+	9.2 PIRATE FORMS
+	9.3 JETPACK
+	9.4 EASY DIGITAL DOWNLOADS
+
+-----------------------------------------*/
+
+
+/* --------------------------------------
+=========================================
+   1. GLOBAL STYLES
+=========================================
+-----------------------------------------*/
+
+
+/*---------------------------------------
+   1.0 GENERAL STYLES
+-----------------------------------------*/
